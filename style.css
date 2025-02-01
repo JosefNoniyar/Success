@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #d4edda;
+    color: #155724;
+    padding: 50px;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.message {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.redirect-message {
+    font-size: 16px;
+    margin-top: 30px;
+    color: #155724;
+    font-style: italic;
+}
